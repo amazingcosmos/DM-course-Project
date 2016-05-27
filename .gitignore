@@ -4,4 +4,3 @@ data_old/
 .ipynb_checkpoints/
 *.sublime*
 nohup.out
-*.swp
